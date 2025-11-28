@@ -160,12 +160,6 @@ nav {
     padding-top: 2px;
 }
 
-.nav-links .nav-link.active {
-    color: var(--main-color);
-    border-top: 2px solid var(--main-color);
-    padding-top: 2px;
-}
-
 /* Groupes d'information */
 .info-group {
     display: flex;
